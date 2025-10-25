@@ -62,7 +62,7 @@
 
 ## 🧩 Vorschau
 
-![Avalon Bodyarmor Preview](A_promotional_digital_graphic_for_the_Avalon_Body_.png)
+![Avalon Bodyarmor Preview](avalon-bodyarmor.png)
 
 ---
 
