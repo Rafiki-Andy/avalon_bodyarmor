@@ -68,12 +68,12 @@
 
 ## 💡 Credits
 
-**Avalon Development | Roleplay Systems & Scripts**  
+**Avalon City**  
 👤 *Rafiki | Andy*  
 📅 *Last Update: 2025-10-25*  
-💬 [Discord Server](https://discord.gg/avaloncity)
+💬 [Discord Server](https://discord.gg/NvMkhqVJdM)
 
 ---
 
 > 💬 **Lizenz:** Dieses Projekt steht unter der [MIT License](LICENSE).  
-> Bitte nenne „Avalon Development“ als Quelle, falls du den Code teilst oder modifizierst.
+> Bitte nenne „Avalon City“ als Quelle, falls du den Code teilst oder modifizierst.
