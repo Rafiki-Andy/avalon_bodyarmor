@@ -12,7 +12,6 @@
 - Dynamische Rüstung für verschiedene Westenarten
 - Automatische visuelle Anpassung (männlich/weiblich)
 - Einfache Erweiterung um eigene Westen
-- Einheitliches **Avalon Branding**
 
 ---
 
