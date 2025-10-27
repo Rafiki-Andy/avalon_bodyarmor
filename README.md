@@ -19,7 +19,7 @@
 
 1. **Repository klonen oder herunterladen:**
    ```bash
-   git clone https://github.com/avalondev/avalon_bodyarmor.git
+   git clone https://github.com/Rafiki-Andy/avalon_bodyarmor.git
    ```
 
 2. **Ordner in dein `resources`-Verzeichnis legen.**
