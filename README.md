@@ -1,7 +1,7 @@
 # 🦺 Avalon Bodyarmor
 
 > **Ein leichtgewichtiges und performantes Script zur Verwendung von Schutzwesten über ox_inventory.**
-> Entwickelt von **Avalon Development | Roleplay Systems & Scripts**
+> Entwickelt von **Avalon City**
 
 ---
 
